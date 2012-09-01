@@ -1,0 +1,122 @@
+/* Styles for Music List */
+td.SPEC_JAZZ {   
+    color: black;
+    background-color: orange;  }
+td.SPEC_CLASSIC {   
+    color: white;
+    background-color: darkblue; }
+td.SPEC_OPERA {   
+    color: white;
+    background-color: darkblue; }
+td.SPEC_POP {
+    color: white;
+    background-color: red; }
+/* Styles for myCMMS cash */    
+td.SPEC_Couts {
+    color: black;
+    background-color: orange;  }
+td.SPEC_Facture {
+    color: white;
+    background-color: green; }    
+td.SPEC_RSZ {
+    color: white;
+    background-color: darkblue; }    
+td.SPEC_TVA {
+    color: white;
+    background-color: darkblue; }        
+    
+td.SPEC_2009Q4,td.SPEC_2010Q2,td.SPEC_2010Q4,td.SPEC_2011Q2,td.SPEC_2011Q4,td.SPEC_2012Q2  {
+    color: black;
+    background-color: olive; }          
+td.SPEC_2010Q1,td.SPEC_2010Q3,td.SPEC_2011Q1,td.SPEC_2011Q3,td.SPEC_2012Q1,td.SPEC_2012Q3 {
+    color: black;
+    background-color: green; }      
+/* Styles for Book List */    
+td.SPEC_THRILLER {
+    color: white;
+    background-color: red; }
+td.SPEC_ROMAN {
+    color: black;
+    background-color: orange; }
+td.SPEC_ART {
+    color: black;
+    background-color: cyan; }  
+td.SPEC_DEVELOPMENT {
+    color: white;
+    background-color: darkgreen; }     
+td.SPEC_PROFESSIONAL {
+    color: white;
+    background-color: darkblue; }     
+td.SPEC_SCIENCE {
+    color: yellow;
+    background-color: darkblue; }    
+td.SPEC_SCIENCE2 {
+    color: red;
+    background-color: darkblue; }  
+td.SPEC_POLITICAL {
+    color: red;
+    background-color: darkgrey; }      
+/* Styles for Guarantee categories */    
+td.SPEC_PC {
+    color: black;
+    background-color: red; }    
+td.SPEC_AUDIO {
+    color: black;
+    background-color: cyan; }     
+td.SPEC_CIE {
+    color: white;
+    background-color: darkblue; }  
+    
+td.SPEC_Active {
+    color: black;
+    background-color: green; }     
+td.SPEC_Archive {
+    color: black;
+    background-color: lightgrey; }    
+    
+td.SPEC_DRAWER {
+    color: black;
+    background-color: cyan; }
+td.SPEC_GONE {
+    color: white;
+    background-color: darkblue; }  
+td.SPEC_BW {
+    color: black;
+    background-color: orange; }                  
+td.SPEC_APPLE {
+    color: black;
+    background-color: orange; }  
+/* Styles for VIDEO locations */    
+td.SPEC_HAMA {
+    color: white;
+    background-color: darkgreen; }                        
+td.SPEC_BOX {
+    color: white;
+    background-color: red; }                        
+td.SPEC_MAP {
+    color: white;
+    background-color: darkblue; }                        
+td.SPEC_PC {
+    color: black;
+    background-color: lightgrey; } 
+td.SPEC_OS {
+    color: black;
+    background-color: orange; }                           
+td.SPEC_GONE {
+    color: white;
+    background-color: darkgrey; }  
+/* Styles for Articles */
+td.SPEC_PDF {
+    color: white;
+    background-color: darkgreen; }
+td.SPEC_KEEP {
+    color: black;
+    background-color: darkgreen; }
+td.SPEC_KEEPTIME {
+    color: black;
+    background-color: orange; }
+    
+td.SPEC_GROUP {
+    background-color: orange; }    
+td.SPEC_COMPOSER {
+    background-color: cyan; } 

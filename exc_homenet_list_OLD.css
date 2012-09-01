@@ -1,0 +1,19 @@
+td.SPEC_TVA {   
+    color: black;
+    background-color: orange;  }
+td.SPEC_RSZ {   
+    color: black;
+    background-color: yellow; }
+td.SPEC_Facture {   
+    color: white;
+    background-color: darkgreen; }
+td.SPEC_Couts {   
+    color: white;
+    background-color: blue; }
+td.SPEC_Investissement {   
+    color: black;
+    background-color: lightblue; }
+td.SPEC_Information {
+    color: black;
+    background-color: grey;
+} 

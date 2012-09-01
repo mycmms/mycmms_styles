@@ -1,0 +1,115 @@
+body {
+    font-family: verdana;
+    font-size: 10px;
+  /*background-color:  #000066;*/
+    color: #333333;
+}
+p.error {
+    font-size: 15px;
+    background-color: red;
+    color: white;
+}
+#centerbox {
+	width: 25em;
+    height: 25em;
+    position: absolute;
+    top: 30%;
+    left: 25%;
+	border: 1px dashed #000066;
+    overflow: auto;
+}
+#centerBox>form {
+	align: center;
+}
+h1 {    
+    font-size: medium;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 0px 1px 0px;
+    padding-left: 10px;
+    margin-right:20px;
+}
+h1.action {
+    font-size: 18px;
+    color: black;
+    background-color: orange;
+    padding-left: 10px;
+    margin-right:50px;
+}
+h3.action {
+    font-size: 16px;
+    color: black;
+    background-color: orange;    
+    padding-left: 10px;
+    margin-right:50px;
+}
+pre, tt {
+    font_size: 18px;
+}
+form {
+	font-family: verdana;
+	font-size: <?PHP echo $font_smaller; ?>
+}
+input.textfield, select, textarea {   
+    font-family: verdana; 
+	font-size: 12px;
+	color: black; 
+	background-color: lightyellow; }
+a.nav:link {   
+    font-family: arial, helvetica, geneva, sans-serif; 
+	color: #000000; }
+a.nav:visited {   
+    font-family: arial, helvetica, geneva, sans-serif; 
+	color: #00FFFF;
+	text-decoration: none; }
+a.nav:hover     {   
+    font-family: arial, helvetica, geneva, sans-serif; 
+	color: #FF0000
+}
+td.topline      {font-size: 1px}
+td {
+    font-family: verdana; 
+	font-size: 12px;
+	color: black; }
+td.important {
+    font-size: 13px;
+} 
+td.choice {
+    background-color: orange;
+}   
+td.chosen {
+    background-color: green;
+}
+th {
+	font-family: arial, helvetica, geneva, sans-serif;
+	font-size: 15px;
+	color: white;
+	background-color: #5961a0;
+ 	padding: 0px, 0px, 0px, 0px;
+	margin: 0px, 0px, 0px, 0px; }
+a:link {
+	text-decoration: none; }
+a:visited {
+	text-decoration: none; }
+.print {
+	font-family:arial;
+	font-size:8pt; }
+.hidden {
+    display: none; }  
+.error {
+    font-size:12pt;
+    font-weight: bold;
+    color: red;
+}
+div.info
+{   border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    font-size: 10pt;
+}
+div.information
+{   font-size: 10pt;
+    color: red;
+}
+select {
+    width: 250px;
+}

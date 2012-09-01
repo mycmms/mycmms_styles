@@ -1,0 +1,75 @@
+td.priority0 {   
+    color: white;
+    background-color: red;  }
+td.priority1 {   
+    color: black;
+    background-color: orange; }
+td.priority2 {   
+    color: black;
+    background-color: olive; }
+td.priority3 {   
+    color: black;
+    background-color: olive; }
+td.priority4 {   
+    color: black;
+    background-color: olive; }
+td.priority9 {   
+    color: darkblue;
+    background-color: aqua; } 
+td.statusA {   
+    color: black;
+    background-color: yellow; }
+td.statusM {   
+    color: black;
+    background-color: orange; }
+td.statusP
+{   color: #FFFFFF;
+    background-color: #FFCC00; }
+td.statusPR
+{   color: #FFFFFF;
+    font-weight: bold;
+    background-color: #00AA33; }
+td.statusPL
+{   color: #FFFFFF;
+    background-color: #00AA33; }
+td.statusR
+{   color: white;
+    background-color: black; }   
+td.statusF
+{   color: black;
+    background-color: lightgrey; }
+td.statusC
+{   color: black;
+    background-color: lightgrey; } 
+    
+td.SPEC_0 {   
+    color: white;
+    background-color: red;  }
+td.SPEC_1 {   
+    color: black;
+    background-color: orange; }
+td.SPEC_2 {   
+    color: black;
+    background-color: olive; }
+td.SPEC_3 {   
+    color: black;
+    background-color: olive; }
+td.SPEC_4 {   
+    color: black;
+    background-color: olive; }
+td.SPEC_9 {   
+    color: darkblue;
+    background-color: aqua; }  
+    
+td.SPEC_INFO {
+    color: white;
+    background-color: green;
+}
+td.SPEC_BD {
+    color: black;
+    background-color: red;
+}
+td.SPEC_WR {
+    color: black;
+    background-color: orange;
+}

@@ -1,0 +1,27 @@
+td.BRAND {
+    background-color: red;
+    color: white;
+}
+td.SERIE {
+    background-color: orange;
+    color: black;
+}
+td.FL {
+    background-color: CYAN;
+}
+td.CLIENT {
+    background-color: yellow;
+}
+td.OOS {
+    background-color: lightgrey;
+    color: red;
+}
+td.GNR {
+    background-color: lightgrey;
+}
+td.FEL {
+    background-color: red;
+}
+td.SPEC {
+    background-color: green;
+}

@@ -1,0 +1,55 @@
+<style TYPE="text/css" TITLE="2D Input" MEDIA=all>    
+BODY {
+font-family: Verdana, Arial;  
+font-size: 8px;
+}
+table {
+width: 500px;
+}
+td {
+font-family: arial, helvetica, geneva, sans-serif; 
+font-size: 12px;
+}
+td.right {
+color: darkblue;
+text-align: right;
+width: 50px;
+}
+td.left {
+color:darkblue;
+text-align: left;
+width: 50px;
+}
+table.list {
+border: black 1px solid;
+}
+th {
+text-align: left;
+background-color: navy;
+color: white;
+font-family: arial, helvetica, geneva, sans-serif; 
+font-size: 14px;
+}
+th.th1 {
+width: 30px;
+}
+th.th2 {
+width: 300px;
+}
+input.LongText {
+border: black 1px solid;
+width: 200px;
+}
+input.ShortText {
+border: black 1px solid;
+width: 100px;
+}
+input.Number {
+border: black 1px solid;
+text-align: center;
+width: 40px;
+}
+input.new {
+border: red 1px solid;
+}
+</style>
